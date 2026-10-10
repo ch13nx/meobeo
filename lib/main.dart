@@ -40,13 +40,8 @@ class MockData {
     {'id': 'f1', 'name': 'Giày Sneaker', 'type': 'feet', 'imagePath': 'assets/images/giay_sneaker.png', 'description': 'Giày thể thao năng động, điểm nhấn cho phong cách cổ phục remix.'},
   ];
 
-  // static final List<Map<String, dynamic>> handAccs = [
-  //   {'id': 'hd1', 'name': 'Quạt Giấy', 'type': 'hand', 'imagePath': 'assets/images/quat.png', 'description': 'Phụ kiện cầm tay thanh nhã, điểm xuyết nét nho nhã và phong lưu.'},
-  // ];
-
-  // static final List<Map<String, dynamic>> neckAccs = [
-  //   {'id': 'n1', 'name': 'Vòng Ngọc', 'type': 'neck', 'imagePath': 'assets/images/vong_ngoc.png', 'description': 'Trang sức đeo cổ quý giá, thể hiện sự quyền quý và đài các.'},
-  // ];
+static final List<Map<String, dynamic>> handAccs = [];
+  static final List<Map<String, dynamic>> neckAccs = [];
 }
 
 // ---------------------------------------------------------
